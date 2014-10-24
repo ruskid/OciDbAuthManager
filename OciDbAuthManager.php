@@ -1,4 +1,3 @@
-```php
 <?php
 
 /**
@@ -497,4 +496,3 @@ class OciCDbAuthManager extends CAuthManager {
     }
 
 }
-```
